@@ -4,6 +4,10 @@
   z-index: 100;
   box-shadow: 0px 2px 12px 4px #00000012;
   height: 72px;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  width: 100vw;
 }
 
 .navbar .navbar-collapse {
